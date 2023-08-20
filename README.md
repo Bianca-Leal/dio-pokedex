@@ -19,8 +19,8 @@ Este é um projeto de uma Pokédex que utiliza uma API para obter informações 
 
 ## Capturas de Tela
 
-![Captura de Tela 1](URL_DA_CAPTURA_DE_TELA_1)
-![Captura de Tela 2](URL_DA_CAPTURA_DE_TELA_2)
+![image](https://github.com/Bianca-Leal/dio-pokedex/assets/106701388/b1e2afcc-23e3-4f32-bdce-765fa358d743)
+![image](https://github.com/Bianca-Leal/dio-pokedex/assets/106701388/65dd529e-0887-4bea-acf7-c2a85aa897dc)
 
 ## Como Usar
 
@@ -34,5 +34,5 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver melh
 
 ## Licença
 
-Este projeto está licenciado sob a [Nome da Licença](URL_DA_LICENCA).
+Este projeto está licenciado sob a MIT. [License](https://github.com/PokeAPI/pokeapi).
 
