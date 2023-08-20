@@ -5,6 +5,9 @@
 
 Este é um projeto de uma Pokédex que utiliza uma API para obter informações sobre os diferentes Pokémon.
 
+## Link para visualizar
+[Pokedex](https://bianca-leal.github.io/dio-pokedex)
+
 ## Funcionalidades
 
 - Lista de Pokémon com seus nomes e números de identificação.
