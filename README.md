@@ -3,7 +3,7 @@
   <img src="https://cdn.pixabay.com/photo/2016/09/09/11/59/pokemon-1656997_640.png" alt="Pokédex Banner" width="300">
 </div>
 
-Este é um projeto de uma Pokédex que utiliza uma API para obter informações sobre os diferentes Pokémon.
+Este é um projeto de uma Pokédex que consome API para obter informações sobre os diferentes Pokémon.
 
 ## Link para visualizar
 [Pokedex](https://bianca-leal.github.io/dio-pokedex)
